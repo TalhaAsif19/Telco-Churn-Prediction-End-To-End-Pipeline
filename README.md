@@ -121,7 +121,7 @@ This allows the model to be loaded and used for future predictions without retra
 | Cross Validation Accuracy | 80.48% |
 | Test Accuracy             | 79.84% |
 
-### Classification Report
+### Individual classes Classification Report
 
 | Class        | Precision | Recall | F1-Score |
 | ------------ | --------- | ------ | -------- |
