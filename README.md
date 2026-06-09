@@ -18,7 +18,7 @@ The objective of this project is to build an end-to-end machine learning pipelin
 
 **Target Variable:** Churn (Yes / No)
 
-**Dataset Size:** Approximately 7,000 customer records
+**Dataset Size:** 7043 customer records
 
 ---
 
